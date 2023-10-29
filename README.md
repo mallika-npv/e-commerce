@@ -1,7 +1,6 @@
-# Auction Website
+# Basic e-commerce website
 
-Welcome to our Auction Website, a platform where users can create, explore, bid on, and manage auction listings. This document provides an overview of the features and functionalities of our web application.
-
+This is a Auction Website, a platform where users can create, explore, bid on, and manage auction listings. This website has been created for the understanding of the languages and general curiosity
 ## Table of Contents
 1. [Create Listing](#create-listing)
 2. [Active Listings Page](#active-listings-page)
